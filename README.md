@@ -1,5 +1,5 @@
 # JavaCipher
-Cifra de Cesar utilizando java
+Cifra Monoalfabética utilizando java
 
 Sample:
 
